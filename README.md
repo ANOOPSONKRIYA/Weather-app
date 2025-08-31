@@ -8,7 +8,7 @@ Deployed live on **Vercel** ✨.
 ---
 
 ## 🔗 Live Demo
-👉 [View Weather App on Vercel](https://your-vercel-link.vercel.app)  
+👉 [View Weather App on Vercel](https://weather-by-anoop.vercel.app/)
 
 ---
 
